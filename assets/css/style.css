@@ -205,13 +205,12 @@ a:hover{
 .footer-style .footer-p1 .footer-col ul li p {
     width: 60%;
     margin-top: -6px;
-    margin-left: 10px;
+    margin-left: 20px;
     font-weight: 600;
 }
 .footer-style .footer-p1 .footer-col ul li:not(:last-child) {
     margin-bottom: 20px;
 }
-
 /* Footer End */
 
 /* Date */
